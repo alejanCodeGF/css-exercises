@@ -1,0 +1,14 @@
+.first_e{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.second_e{
+    background-color: yellow;
+}
+
+.first_e, .second_e{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
